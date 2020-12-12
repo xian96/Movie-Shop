@@ -65,11 +65,7 @@ C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\o
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.AssemblyInfoInputs.cache
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.AssemblyInfo.cs
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csproj.CoreCompileInputs.cache
-C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.dll
-C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\ref\MovieShop.API.dll
-C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.pdb
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\bin\Debug\net5.0\appsettings.json
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\bin\Debug\net5.0\MovieShop.API.exe
@@ -121,4 +117,8 @@ C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\o
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\scopedcss\bundle\MovieShop.API.styles.css
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.RazorTargetAssemblyInfo.cache
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csproj.CopyComplete
+C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.dll
+C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\ref\MovieShop.API.dll
+C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.pdb
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.genruntimeconfig.cache
+C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.API\obj\Debug\net5.0\MovieShop.API.MvcApplicationPartsAssemblyInfo.cs

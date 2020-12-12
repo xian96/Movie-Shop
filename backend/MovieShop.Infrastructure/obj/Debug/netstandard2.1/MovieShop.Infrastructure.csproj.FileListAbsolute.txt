@@ -14,11 +14,11 @@ C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infra
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.AssemblyInfo.cs
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.dll
-C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.pdb
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Infrastructure.deps.json
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Infrastructure.dll
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Infrastructure.pdb
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Core.dll
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Core.pdb
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.csproj.CopyComplete
+C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.dll
+C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.pdb

@@ -152,13 +152,11 @@ C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitT
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\obj\Debug\netcoreapp3.1\MovieShop.UnitTest.AssemblyInfoInputs.cache
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\obj\Debug\netcoreapp3.1\MovieShop.UnitTest.AssemblyInfo.cs
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\obj\Debug\netcoreapp3.1\MovieShop.UnitTest.csproj.CoreCompileInputs.cache
-C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\obj\Debug\netcoreapp3.1\MovieShop.UnitTest.dll
-C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\obj\Debug\netcoreapp3.1\MovieShop.UnitTest.pdb
+C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\bin\Debug\netcoreapp3.1\testhost.exe
-C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\bin\Debug\netcoreapp3.1\MovieShop.UnitTest.deps.json
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\bin\Debug\netcoreapp3.1\MovieShop.UnitTest.runtimeconfig.json
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\bin\Debug\netcoreapp3.1\MovieShop.UnitTest.runtimeconfig.dev.json
@@ -297,4 +295,6 @@ C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitT
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\bin\Debug\netcoreapp3.1\MovieShop.Core.pdb
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\bin\Debug\netcoreapp3.1\MovieShop.Infrastructure.pdb
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\obj\Debug\netcoreapp3.1\MovieShop.UnitTest.csproj.CopyComplete
+C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\obj\Debug\netcoreapp3.1\MovieShop.UnitTest.dll
+C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\obj\Debug\netcoreapp3.1\MovieShop.UnitTest.pdb
 C:\Users\jason\Documents\AllCodingSave\Oct2020\MovieShop\backend\MovieShop.UnitTest\obj\Debug\netcoreapp3.1\MovieShop.UnitTest.genruntimeconfig.cache

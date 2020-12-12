@@ -59,11 +59,11 @@ namespace MovieShop.API.Controllers
         [HttpGet]
         [Route("purchases")]
         //[Route("purchases/{pageSize?:int}{pageNumber?:int}")]
-        public async Task<IActionResult> GetAllPurchases(int pageSize = 30, int pageNumber = 1)
+        public async Task<IActionResult> GetAllPurchases(int pageSize = 30, int page = 1)
         {
-            var moviesResponse = await _purchaseService.GetAllPurchases(pageSize, pageNumber);
+            var movies = await _movieService.GetAllMoviePurchasesByPagination(pageSize, page);
             //TODO: should catch exception here
-            return Ok(moviesResponse);
+            return Ok(movies);
 
             //return BadRequest(new { message = "please correct the input information" });
         }
@@ -71,18 +71,22 @@ namespace MovieShop.API.Controllers
         [HttpGet]
         [Route("top")]
         //[Route("purchases/{pageSize?:int}{pageNumber?:int}")]
-        public async Task<IActionResult> GetTopPurchasesMovies()
+        public async Task<IActionResult> GetTopMovies()
         {
-            var moviesResponse = await _movieService.GetTopPurchasesMovies();
-            //TODO: should catch exception here
-            return Ok(moviesResponse);
+            /*            
+             *            var movies = _cache.Get<IEnumerable<MovieChartResponseModel>>("chartsData");
+            return Ok(movies);
+            */
 
-            //return BadRequest(new { message = "please correct the input information" });
+            
+            return BadRequest(new { message = "//TODO: not correctly implemented!" });
         }
 
         [HttpGet("push/{data}")]
         public async Task<IActionResult> PushNotification(string data)
         {
+            /*await _hubContext.Clients.All.SendAsync("discountNotification", data);
+            return Ok();*/
 
             return BadRequest(new { message = "TODO: PushNotification" });
         }

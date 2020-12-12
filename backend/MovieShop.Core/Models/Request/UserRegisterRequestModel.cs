@@ -5,6 +5,10 @@ using System.Text;
 
 namespace MovieShop.Core.Models.Request
 {
+    // https://liftcodeplay.files.wordpress.com/2017/07/regexrequirement.png
+    // https://liftcodeplay.com/2017/07/15/asp-net-core-password-complexity-validation-using-a-regular-expression-in-a-view-model/
+    // ^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[#$^+=!*()@%&]).{8,}$
+    // https://stackoverflow.com/questions/48635152/regex-for-default-asp-net-core-identity-password
     public class UserRegisterRequestModel
     {
         [Required]
